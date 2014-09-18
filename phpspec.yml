@@ -1,0 +1,8 @@
+formatter.name: pretty
+suites:
+  omes_suite:
+    namespace: Tasks
+    src_path: app
+    psr4_prefix: Tasks
+    spec_path: .
+    spec_prefix: spec
