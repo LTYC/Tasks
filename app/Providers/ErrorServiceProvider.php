@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace Tasks\Providers;
 
 use App, Log, Exception;
 use Illuminate\Support\ServiceProvider;

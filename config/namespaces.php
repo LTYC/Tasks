@@ -13,7 +13,7 @@ return [
 	|
 	*/
 
-	'root' => 'App\\',
+	'root' => 'Tasks\\',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -26,14 +26,14 @@ return [
 	|
 	*/
 
-	'console' => 'App\Console\\',
+	'console' => 'Tasks\Console\\',
 
-	'controllers' => 'App\Http\Controllers\\',
+	'controllers' => 'Tasks\Http\Controllers\\',
 
-	'filters' => 'App\Http\Filters\\',
+	'filters' => 'Tasks\Http\Filters\\',
 
-	'providers' => 'App\Providers\\',
+	'providers' => 'Tasks\Providers\\',
 
-	'requests' => 'App\Http\Requests\\',
+	'requests' => 'Tasks\Http\Requests\\',
 
 ];

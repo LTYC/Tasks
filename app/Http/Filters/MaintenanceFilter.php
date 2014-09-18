@@ -1,4 +1,4 @@
-<?php namespace App\Http\Filters;
+<?php namespace Tasks\Http\Filters;
 
 use App, Response;
 
